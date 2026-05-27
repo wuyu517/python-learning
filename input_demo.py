@@ -1,0 +1,5 @@
+name=input("请输入姓名：")
+weight=int(input("请输入体重："))
+height=float(input("请输入身高:"))
+bmi=weight/(height**2)
+print(bmi)
