@@ -51,3 +51,10 @@ print(sub(3,5))
 import calculator
 result=calculator.mul(3,5)
 print(result)
+
+import greeting
+
+greeting.hello("Ricardo")
+
+from greeting import hello
+print(hello("Ricardo"))
