@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b0629a0-80cd-47db-afbf-cdda7fe45d66" name="更改" comment="完成聊天记录分析器">
+      <change afterPath="$PROJECT_DIR$/NumPy/2.1.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/2.2.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/2.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/2.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/2.3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/2.3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/2.4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/2.4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/chat_analyzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/diary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/dict_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/exception_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/file_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/for_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/function_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/greeting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/if_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/input_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/list_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/math_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/module_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/oop_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/requests_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_learn/variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/basic_learn/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_analyzer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/for_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/function_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greeting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/if_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/math_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requests_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3EIkFUbSipDeYMb06WRIHfkZJHn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.2.1.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.4.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TEST.executor&quot;: &quot;Run&quot;,
+    &quot;Python.chat_analyzer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.input_demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project-gpt\python-learning\basic_learn" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-3d8931ec2368-968fe969f28a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.28539.58" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7b0629a0-80cd-47db-afbf-cdda7fe45d66" name="更改" comment="" />
+      <created>1779873367186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779873367186</updated>
+      <workItem from="1780761072148" duration="12000" />
+      <workItem from="1780761099348" duration="38000" />
+      <workItem from="1780761154142" duration="8000" />
+    </task>
+    <task id="LOCAL-00001" summary="学习字典和键值对">
+      <option name="closed" value="true" />
+      <created>1779981214346</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779981214346</updated>
+    </task>
+    <task id="LOCAL-00002" summary="学习面向对象和 class">
+      <option name="closed" value="true" />
+      <created>1780032673924</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780032673924</updated>
+    </task>
+    <task id="LOCAL-00003" summary="学习面向对象和 class">
+      <option name="closed" value="true" />
+      <created>1780071943623</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780071943623</updated>
+    </task>
+    <task id="LOCAL-00004" summary="学习模块与 import">
+      <option name="closed" value="true" />
+      <created>1780325353181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780325353181</updated>
+    </task>
+    <task id="LOCAL-00005" summary="完成聊天记录分析器">
+      <option name="closed" value="true" />
+      <created>1780541233607</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780541233607</updated>
+    </task>
+    <task id="LOCAL-00006" summary="完成聊天记录分析器">
+      <option name="closed" value="true" />
+      <created>1780542249733</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1780542249733</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学习字典和键值对" />
+    <MESSAGE value="学习面向对象和 class" />
+    <MESSAGE value="学习模块与 import" />
+    <MESSAGE value="完成聊天记录分析器" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成聊天记录分析器" />
+  </component>
+</project>

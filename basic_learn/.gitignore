@@ -1,5 +1,5 @@
 # 忽略 PyCharm 的本地配置文件
-.idea/
+../.idea/
 *.iml
 
 # 忽略 Python 运行产生的缓存文件
@@ -11,7 +11,7 @@ __pycache__/
 venv/
 
 # 忽略个人的隐私及临时文本文件
-diary.txt
-chat.txt
-test.txt
-output.txt
+basic_learn/diary.txt
+basic_learn/chat.txt
+basic_learn/test.txt
+basic_learn/output.txt
